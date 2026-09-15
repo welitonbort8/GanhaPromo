@@ -17,31 +17,21 @@
     "maxPaginas": 1
   },
   {
-    "id": "vivo-x300-pro-global",
-    "nome": "Vivo x300 Pro Global",
+    "id": "xbox series x",
+    "nome": "xbox series x",
     "ativo": true,
-    "termoBusca": "vivo x300 pro",
-    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x300%20pro%20global",
-    "precoMinimo": 4000,
-    "precoMaximo": 6500,
+    "termoBusca": "xbox series x",
+    "urlBuscaOlx": "https://www.olx.com.br/games/consoles-de-video-game?ps=2500&pe=3200&q=Xbox%20series%20x&sf=1&opst=2",
+    "precoMinimo": 2500,
+    "precoMaximo": 3100,
     "palavrasObrigatorias": [
-      "x300"
+      "series"
     ],
     "palavrasObrigatoriasTodas": [
-      "x300"
+      "series"
     ],
     "palavrasBloqueadas": [
-      "réplica",
-      "replica",
-      "slim",
-      "defeito",
-      "quebrada",
-      "quebrado",
-      "cn",
-      "china",
-      "rom chinesa",
-      "versão chinesa",
-      "versao chinesa"
+      "réplica"
     ],
     "maxPaginas": 1
   },
