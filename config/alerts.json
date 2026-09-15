@@ -1,27 +1,18 @@
 [
   {
-    "id": "oppo-find-x9-pro",
-    "nome": "Oppo Find x9 Pro",
+    "id": "xbox series s",
+    "nome": "xbox series s",
     "ativo": true,
-    "termoBusca": "oppo find x9 pro",
-    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=oppo%20find%20x9%20pro",
-    "precoMinimo": 4000,
-    "precoMaximo": 5600,
+    "termoBusca": "xbox series s",
+    "urlBuscaOlx": "https://www.olx.com.br/games/consoles-de-video-game?ps=1200&pe=1700&q=Xbox%20series%20s&sf=1&opst=2",
+    "precoMinimo": 1000,
+    "precoMaximo": 2000,
     "palavrasObrigatorias": [
-      "x9"
+      "series"
     ],
     "palavrasBloqueadas": [
       "carcaça",
-      "placa",
-      "quebrada",
-      "quebrado",
-      "trincada",
-      "trincado",
-      "defeito",
-      "assistência",
-      "assistencia",
-      "conserto",
-      "sucata"
+      "placa"
     ],
     "maxPaginas": 1
   },
