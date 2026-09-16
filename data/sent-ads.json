@@ -3674,5 +3674,41 @@
     "priceTexto": "R$ 78.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1533616623",
+    "url": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-leia-1533616623",
+    "sentAt": "2026-09-16T22:05:39.079Z",
+    "title": "Xbox Series S - Leia",
+    "priceTexto": "R$ 1.400",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1533303104",
+    "url": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-one-s-500gb-controle-xbox-series-s-x-1533303104",
+    "sentAt": "2026-09-16T22:05:40.610Z",
+    "title": "XBOX ONE S 500GB + CONTROLE XBOX SERIES S/X ?",
+    "priceTexto": "R$ 1.560",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1533298412",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-one-s-1tb-controle-novo-xbox-series-x-s-impecavel-1533298412",
+    "sentAt": "2026-09-16T22:05:42.128Z",
+    "title": "Xbox One S 1TB + Controle Novo Xbox Series X|S Impecável",
+    "priceTexto": "R$ 1.398",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1536177180",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1536177180",
+    "sentAt": "2026-09-16T22:06:40.558Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 135.900",
+    "score": 78,
+    "level": "alta"
   }
 ]
