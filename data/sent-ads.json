@@ -2935,15 +2935,6 @@
     "level": "alta"
   },
   {
-    "id": "1533828386",
-    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1533828386",
-    "sentAt": "2026-09-09T18:09:56.890Z",
-    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
-    "priceTexto": "R$ 98.990",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1533863279",
     "url": "https://mg.olx.com.br/regiao-de-juiz-de-fora/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1533863279",
     "sentAt": "2026-09-09T18:09:58.145Z",
@@ -3524,5 +3515,92 @@
     "priceTexto": "R$ 380",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1533589299",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-xbox-series-x-1-tb-branco-c-controle-leia-1533589299",
+    "sentAt": "2026-09-16T19:05:14.491Z",
+    "title": "Console Xbox Series X 1 TB Branco c/ Controle (LEIA!)",
+    "priceTexto": "R$ 3.000",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1520952194",
+    "url": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/x-box-series-s-com-caixa-1520952194",
+    "sentAt": "2026-09-16T19:05:15.959Z",
+    "title": "X box series s com caixa",
+    "priceTexto": "R$ 2.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1532901175",
+    "url": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/x-box-series-s-512gb-1532901175",
+    "sentAt": "2026-09-16T19:05:17.424Z",
+    "title": "X Box Series S 512GB",
+    "priceTexto": "R$ 2.700",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1532478867",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/x-box-series-s-estado-de-novo-1532478867",
+    "sentAt": "2026-09-16T19:05:18.881Z",
+    "title": "X BOX Séries S (Estado de novo)",
+    "priceTexto": "R$ 2.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1285590698",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-one-x-series-escorpioes-1285590698",
+    "sentAt": "2026-09-16T19:05:20.364Z",
+    "title": "Xbox one X séries escorpiões",
+    "priceTexto": "R$ 2.900",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1536121223",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1536121223",
+    "sentAt": "2026-09-16T19:06:12.710Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 70.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1535688727",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1535688727",
+    "sentAt": "2026-09-16T19:06:13.930Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 109.799",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1535667685",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1535667685",
+    "sentAt": "2026-09-16T19:06:15.144Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 109.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1533828386",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1533828386",
+    "sentAt": "2026-09-16T19:06:16.361Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 96.990",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 98.990",
+        "date": "2026-09-09T18:09:56.890Z"
+      }
+    ]
   }
 ]
