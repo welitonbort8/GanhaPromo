@@ -41,8 +41,8 @@ jobs:
 
       - name: Run monitor
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.8801767045:AAGdfhiVt5Ha4nDqTR5XB_2-AT0K8ADNPso }}
-          TELEGRAM_CHAT_ID: ${{ secrets.906171308 }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_ID }}
           CALLMEBOT_API_KEY: ${{ secrets.CALLMEBOT_API_KEY }}
           WHATSAPP_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
           WHATSAPP_API_KEY_AMIGO: ${{ secrets.WHATSAPP_API_KEY_AMIGO }}
