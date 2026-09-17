@@ -3463,15 +3463,6 @@
     "level": "media"
   },
   {
-    "id": "1536036096",
-    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1536036096",
-    "sentAt": "2026-09-16T17:06:42.450Z",
-    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
-    "priceTexto": "R$ 99.900",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1535823264",
     "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1535823264",
     "sentAt": "2026-09-16T17:06:43.664Z",
@@ -3759,6 +3750,21 @@
       {
         "priceTexto": "R$ 2.900",
         "date": "2026-09-16T20:06:49.364Z"
+      }
+    ]
+  },
+  {
+    "id": "1536036096",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1536036096",
+    "sentAt": "2026-09-17T15:07:27.876Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 99.000",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 99.900",
+        "date": "2026-09-16T17:06:42.450Z"
       }
     ]
   }
