@@ -3767,5 +3767,32 @@
         "date": "2026-09-16T17:06:42.450Z"
       }
     ]
+  },
+  {
+    "id": "1536389523",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/xbox-series-s-expansao-1tb-2-controles-caixa-1536389523",
+    "sentAt": "2026-09-17T16:06:29.673Z",
+    "title": "Xbox Series S + Expansão 1TB + 2 controles + caixa",
+    "priceTexto": "R$ 2.800",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1536382017",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1536382017",
+    "sentAt": "2026-09-17T16:07:20.654Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 101.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1536375711",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1536375711",
+    "sentAt": "2026-09-17T16:07:21.911Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 92.000",
+    "score": 87,
+    "level": "alta"
   }
 ]
