@@ -3649,15 +3649,6 @@
     "level": "alta"
   },
   {
-    "id": "1528834277",
-    "url": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1528834277",
-    "sentAt": "2026-09-16T20:06:49.364Z",
-    "title": "Xbox séries S",
-    "priceTexto": "R$ 2.900",
-    "score": 57,
-    "level": "media"
-  },
-  {
     "id": "1527271462",
     "url": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/x-box-series-s-quase-novo-original-nunca-aberto-controle-fonte-caixa-1527271462",
     "sentAt": "2026-09-16T20:06:50.828Z",
@@ -3755,5 +3746,20 @@
     "priceTexto": "R$ 120.000",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1528834277",
+    "url": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1528834277",
+    "sentAt": "2026-09-17T11:05:47.297Z",
+    "title": "Xbox séries S",
+    "priceTexto": "R$ 2.800",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 2.900",
+        "date": "2026-09-16T20:06:49.364Z"
+      }
+    ]
   }
 ]
