@@ -3857,5 +3857,23 @@
     "priceTexto": "R$ 101.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1536513832",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/audio/equipamentos-e-acessorios-de-som/fone-realme-buds-air-5-pro-1536513832",
+    "sentAt": "2026-09-18T01:06:16.307Z",
+    "title": "Fone Realme Buds Air 5 Pro",
+    "priceTexto": "R$ 250",
+    "score": 70,
+    "level": "media"
+  },
+  {
+    "id": "1536542803",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1536542803",
+    "sentAt": "2026-09-18T01:06:43.639Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 83.120",
+    "score": 87,
+    "level": "alta"
   }
 ]
