@@ -4120,21 +4120,36 @@
     "level": "alta"
   },
   {
-    "id": "1536166853",
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-xbox-series-s-com-defeito-1536166853",
-    "sentAt": "2026-09-20T20:05:31.833Z",
-    "title": "Console Xbox Series S Com Defeito",
-    "priceTexto": "R$ 1.799",
-    "score": 39,
-    "level": "baixa"
-  },
-  {
     "id": "1537242429",
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/x-box-series-s-2-controles-originais-1537242429",
     "sentAt": "2026-09-20T20:05:41.914Z",
     "title": "X Box Series S + 2 Controles Originais",
     "priceTexto": "R$ 2.600",
     "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1536166853",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-xbox-series-s-com-defeito-1536166853",
+    "sentAt": "2026-09-20T23:05:22.549Z",
+    "title": "Console Xbox Series S Com Defeito",
+    "priceTexto": "R$ 1.399",
+    "score": 61,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 1.799",
+        "date": "2026-09-20T20:05:31.833Z"
+      }
+    ]
+  },
+  {
+    "id": "1537328343",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1537328343",
+    "sentAt": "2026-09-20T23:06:22.604Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 85.600",
+    "score": 87,
     "level": "alta"
   }
 ]
