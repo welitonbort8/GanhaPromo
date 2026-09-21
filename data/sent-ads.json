@@ -4205,5 +4205,50 @@
     "priceTexto": "R$ 144.990",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1528270011",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-one-s-1tb-com-1-controle-series-s-1528270011",
+    "sentAt": "2026-09-21T16:06:20.453Z",
+    "title": "Xbox one S 1tb com 1 controle séries s",
+    "priceTexto": "R$ 1.350",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1532942499",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/troco-ps4-por-xbox-series-s-dinheiro-1532942499",
+    "sentAt": "2026-09-21T16:06:21.957Z",
+    "title": "Troco ps4 por Xbox séries s + dinheiro",
+    "priceTexto": "R$ 1.300",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1532460863",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1532460863",
+    "sentAt": "2026-09-21T16:06:23.454Z",
+    "title": "Xbox séries S",
+    "priceTexto": "R$ 1.699",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1519857514",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-compramos-avista-no-pix-1519857514",
+    "sentAt": "2026-09-21T16:06:24.956Z",
+    "title": "XBOX SERIES S ( COMPRAMOS AVISTA NO PIX )",
+    "priceTexto": "R$ 1.700",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1531910366",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-one-500gb-kinect-controle-series-x-s-9-jogos-1531910366",
+    "sentAt": "2026-09-21T16:06:26.450Z",
+    "title": "Xbox One 500GB + Kinect + Controle Series X/S + 9 Jogos",
+    "priceTexto": "R$ 1.450",
+    "score": 67,
+    "level": "media"
   }
 ]
