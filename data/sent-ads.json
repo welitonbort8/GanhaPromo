@@ -4412,5 +4412,23 @@
     "priceTexto": "R$ 2.600",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1537972614",
+    "url": "https://se.olx.com.br/sergipe/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1537972614",
+    "sentAt": "2026-09-23T00:08:28.218Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 108.000",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1537969021",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1537969021",
+    "sentAt": "2026-09-23T00:08:29.507Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 85.699",
+    "score": 79,
+    "level": "alta"
   }
 ]
