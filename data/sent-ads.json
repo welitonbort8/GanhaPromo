@@ -3676,15 +3676,6 @@
     "level": "media"
   },
   {
-    "id": "1533298412",
-    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-one-s-1tb-controle-novo-xbox-series-x-s-impecavel-1533298412",
-    "sentAt": "2026-09-16T22:05:42.128Z",
-    "title": "Xbox One S 1TB + Controle Novo Xbox Series X|S Impecável",
-    "priceTexto": "R$ 1.398",
-    "score": 79,
-    "level": "alta"
-  },
-  {
     "id": "1536177180",
     "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1536177180",
     "sentAt": "2026-09-16T22:06:40.558Z",
@@ -4781,5 +4772,29 @@
     "priceTexto": "R$ 85.000",
     "score": 90,
     "level": "alta"
+  },
+  {
+    "id": "1519778491",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-com-pro-1519778491",
+    "sentAt": "2026-09-27T08:05:48.441Z",
+    "title": "XBOX SERIES S ( COM PRO )",
+    "priceTexto": "R$ 1.700",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1533298412",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-one-s-1tb-controle-novo-xbox-series-x-s-impecavel-1533298412",
+    "sentAt": "2026-09-27T08:05:49.943Z",
+    "title": "Xbox One S 1TB + Controle Novo Xbox Series X|S Impecável",
+    "priceTexto": "R$ 1.298",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 1.398",
+        "date": "2026-09-16T22:05:42.128Z"
+      }
+    ]
   }
 ]
