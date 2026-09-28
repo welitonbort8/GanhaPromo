@@ -4904,5 +4904,23 @@
     "priceTexto": "R$ 115.000",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1539610276",
+    "url": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/xbox-series-x-s-1539610276",
+    "sentAt": "2026-09-28T19:06:51.069Z",
+    "title": "Xbox series x/s",
+    "priceTexto": "R$ 1.600",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1539605796",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/xbox-series-s-1539605796",
+    "sentAt": "2026-09-28T19:06:52.546Z",
+    "title": "Xbox Series S",
+    "priceTexto": "R$ 1.700",
+    "score": 75,
+    "level": "alta"
   }
 ]
