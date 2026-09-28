@@ -4783,21 +4783,6 @@
     "level": "media"
   },
   {
-    "id": "1533298412",
-    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-one-s-1tb-controle-novo-xbox-series-x-s-impecavel-1533298412",
-    "sentAt": "2026-09-27T08:05:49.943Z",
-    "title": "Xbox One S 1TB + Controle Novo Xbox Series X|S Impecável",
-    "priceTexto": "R$ 1.298",
-    "score": 79,
-    "level": "alta",
-    "history": [
-      {
-        "priceTexto": "R$ 1.398",
-        "date": "2026-09-16T22:05:42.128Z"
-      }
-    ]
-  },
-  {
     "id": "1528833043",
     "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1528833043",
     "sentAt": "2026-09-27T12:07:39.351Z",
@@ -4921,6 +4906,61 @@
     "title": "Xbox Series S",
     "priceTexto": "R$ 1.700",
     "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1539652120",
+    "url": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1539652120",
+    "sentAt": "2026-09-28T21:06:15.324Z",
+    "title": "XBOX SERIES S",
+    "priceTexto": "R$ 1.700",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1533298412",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-one-s-1tb-controle-novo-xbox-series-x-s-impecavel-1533298412",
+    "sentAt": "2026-09-28T21:06:16.834Z",
+    "title": "Xbox One S 1TB + Controle Novo Xbox Series X|S Impecável",
+    "priceTexto": "R$ 1.250",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 1.398",
+        "date": "2026-09-16T22:05:42.128Z"
+      },
+      {
+        "priceTexto": "R$ 1.298",
+        "date": "2026-09-27T08:05:49.943Z"
+      }
+    ]
+  },
+  {
+    "id": "1539681122",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1539681122",
+    "sentAt": "2026-09-28T21:07:19.017Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 103.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1504029608",
+    "url": "https://ms.olx.com.br/mato-grosso-do-sul/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1504029608",
+    "sentAt": "2026-09-28T21:07:20.308Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 97.999",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1539653413",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1539653413",
+    "sentAt": "2026-09-28T21:07:21.561Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 84.900",
+    "score": 87,
     "level": "alta"
   }
 ]
