@@ -4859,5 +4859,41 @@
     "priceTexto": "R$ 95.000",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1539422729",
+    "url": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1539422729",
+    "sentAt": "2026-09-28T12:07:08.977Z",
+    "title": "Xbox Series S",
+    "priceTexto": "R$ 1.700",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1484749716",
+    "url": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-series-s-512g-1484749716",
+    "sentAt": "2026-09-28T12:07:10.440Z",
+    "title": "Xbox series S 512g",
+    "priceTexto": "R$ 1.700",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1539418436",
+    "url": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/consoles-de-video-game/xbox-one-s-1tb-controle-do-series-x-gta5-midia-fisica-1539418436",
+    "sentAt": "2026-09-28T12:07:11.891Z",
+    "title": "Xbox one s 1tb +controle do séries x+ gta5 mídia física",
+    "priceTexto": "R$ 1.200",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1539326243",
+    "url": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/consoles-de-video-game/xbox-one-s-com-1-terabyte-acompanha-controle-series-x-1539326243",
+    "sentAt": "2026-09-28T12:07:13.342Z",
+    "title": "Xbox One S com 1 terabyte, acompanha controle Series X",
+    "priceTexto": "R$ 1.200",
+    "score": 79,
+    "level": "alta"
   }
 ]
