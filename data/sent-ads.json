@@ -5193,5 +5193,23 @@
     "priceTexto": "R$ 102.510",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1539905604",
+    "url": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-series-x-1539905604",
+    "sentAt": "2026-10-01T08:08:19.536Z",
+    "title": "Xbox Series X",
+    "priceTexto": "R$ 3.100",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1540481799",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/soundcore-liberty-4-nc-da-anker-fone-de-ouvido-bluetooth-anc-adaptativo-2-0-1540481799",
+    "sentAt": "2026-10-01T08:08:54.065Z",
+    "title": "soundcore Liberty 4 NC da Anker Fone de Ouvido Bluetooth ANC Adaptativo 2.0",
+    "priceTexto": "R$ 230",
+    "score": 75,
+    "level": "alta"
   }
 ]
