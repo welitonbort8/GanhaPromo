@@ -5256,5 +5256,32 @@
     "priceTexto": "R$ 86.900",
     "score": 90,
     "level": "alta"
+  },
+  {
+    "id": "1540460242",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-v1-desbloqueado-troco-por-xbox-series-s-1540460242",
+    "sentAt": "2026-10-01T15:10:37.616Z",
+    "title": "Nintendo switch V1 Desbloqueado Troco por Xbox series S",
+    "priceTexto": "R$ 1.600",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1540557833",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540557833",
+    "sentAt": "2026-10-01T15:11:36.958Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 112.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1540553635",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1540553635",
+    "sentAt": "2026-10-01T15:11:38.223Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
+    "priceTexto": "R$ 149.900",
+    "score": 65,
+    "level": "media"
   }
 ]
