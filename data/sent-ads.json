@@ -5301,5 +5301,23 @@
     "priceTexto": "R$ 1.700",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1540665462",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1540665462",
+    "sentAt": "2026-10-01T21:06:47.183Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 99.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1540662393",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1540662393",
+    "sentAt": "2026-10-01T21:06:48.441Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 120.000",
+    "score": 75,
+    "level": "alta"
   }
 ]
