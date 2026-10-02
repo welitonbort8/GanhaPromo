@@ -5379,5 +5379,23 @@
     "priceTexto": "R$ 101.500",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1540805908",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-series-x-com-detalhe-1540805908",
+    "sentAt": "2026-10-02T18:08:10.808Z",
+    "title": "Xbox séries x com detalhe",
+    "priceTexto": "R$ 2.999",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1536996942",
+    "url": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/x-box-series-s-1536996942",
+    "sentAt": "2026-10-02T18:08:12.387Z",
+    "title": "X box series S",
+    "priceTexto": "R$ 2.800",
+    "score": 57,
+    "level": "media"
   }
 ]
