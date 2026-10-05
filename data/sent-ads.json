@@ -5399,15 +5399,6 @@
     "level": "media"
   },
   {
-    "id": "1540964169",
-    "url": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-base-em-pe-cooler-refrigeracao-controle-xbox-gamepass-gamer-console-xbox-x-1540964169",
-    "sentAt": "2026-10-03T00:08:17.712Z",
-    "title": "Xbox séries S+Base em pé cooler refrigeração+controle Xbox gamepass gamer console Xbox x",
-    "priceTexto": "R$ 3.000",
-    "score": 57,
-    "level": "media"
-  },
-  {
     "id": "1540992378",
     "url": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540992378",
     "sentAt": "2026-10-03T04:11:18.987Z",
@@ -5496,5 +5487,29 @@
     "priceTexto": "R$ 1.200",
     "score": 82,
     "level": "alta"
+  },
+  {
+    "id": "1541012861",
+    "url": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/x-box-series-s-completo-1541012861",
+    "sentAt": "2026-10-05T04:10:22.857Z",
+    "title": "X box séries S completo",
+    "priceTexto": "R$ 3.000",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1540964169",
+    "url": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-base-em-pe-cooler-refrigeracao-controle-xbox-gamepass-gamer-console-xbox-x-1540964169",
+    "sentAt": "2026-10-05T04:10:24.311Z",
+    "title": "Xbox séries S+Base em pé cooler refrigeração+controle Xbox gamepass gamer console Xbox x",
+    "priceTexto": "R$ 2.700",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 3.000",
+        "date": "2026-10-03T00:08:17.712Z"
+      }
+    ]
   }
 ]
