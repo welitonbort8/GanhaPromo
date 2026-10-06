@@ -5643,5 +5643,23 @@
     "priceTexto": "R$ 92.800",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1541897342",
+    "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1541897342",
+    "sentAt": "2026-10-06T18:09:51.278Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 91.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1541833152",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1541833152",
+    "sentAt": "2026-10-06T18:09:52.526Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 95.500",
+    "score": 87,
+    "level": "alta"
   }
 ]
