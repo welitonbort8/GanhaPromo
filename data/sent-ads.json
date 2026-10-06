@@ -1410,15 +1410,6 @@
     "level": "alta"
   },
   {
-    "id": "1523511625",
-    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1523511625",
-    "sentAt": "2026-08-04T16:10:44.268Z",
-    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
-    "priceTexto": "R$ 87.900",
-    "score": 79,
-    "level": "alta"
-  },
-  {
     "id": "1523501734",
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1523501734",
     "sentAt": "2026-08-04T16:10:45.540Z",
@@ -5547,5 +5538,20 @@
     "priceTexto": "R$ 88.990",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1523511625",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1523511625",
+    "sentAt": "2026-10-06T01:09:49.401Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 85.900",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 87.900",
+        "date": "2026-08-04T16:10:44.268Z"
+      }
+    ]
   }
 ]
