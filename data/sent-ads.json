@@ -5838,5 +5838,23 @@
     "priceTexto": "R$ 1.700",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1542145618",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/xbox-series-x-512g-1542145618",
+    "sentAt": "2026-10-08T06:13:39.435Z",
+    "title": "XBOX SERIES X 512G",
+    "priceTexto": "R$ 2.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1541934062",
+    "url": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/x-box-series-s-com-analogicos-hall-effect-1541934062",
+    "sentAt": "2026-10-08T06:13:40.943Z",
+    "title": "X box series s com analógicos Hall Effect",
+    "priceTexto": "R$ 2.599",
+    "score": 67,
+    "level": "media"
   }
 ]
