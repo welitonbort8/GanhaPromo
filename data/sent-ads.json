@@ -5802,5 +5802,32 @@
     "priceTexto": "R$ 1.800",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1542349292",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-500gb-nota-fiscal-1542349292",
+    "sentAt": "2026-10-08T02:07:00.832Z",
+    "title": "XBOX SERIES S 500GB + NOTA FISCAL",
+    "priceTexto": "R$ 1.700",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1542284246",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1542284246",
+    "sentAt": "2026-10-08T02:07:59.717Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 114.900",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1539025721",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-attra-16v-tb-fsi-s-tronic-2017-1539025721",
+    "sentAt": "2026-10-08T02:08:00.940Z",
+    "title": "Audi A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic 2017",
+    "priceTexto": "R$ 93.990",
+    "score": 79,
+    "level": "alta"
   }
 ]
