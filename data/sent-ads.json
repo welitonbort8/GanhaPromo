@@ -5943,5 +5943,23 @@
         "date": "2026-09-21T21:06:31.325Z"
       }
     ]
+  },
+  {
+    "id": "1526286718",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1526286718",
+    "sentAt": "2026-10-10T04:07:34.073Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 89.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1487727679",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1487727679",
+    "sentAt": "2026-10-10T04:07:35.303Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 92.990",
+    "score": 79,
+    "level": "alta"
   }
 ]
