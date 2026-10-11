@@ -5985,5 +5985,32 @@
         "date": "2026-09-19T10:05:47.433Z"
       }
     ]
+  },
+  {
+    "id": "1543221711",
+    "url": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/xbox-one-s-com-dois-controles-de-series-s-1543221711",
+    "sentAt": "2026-10-11T03:07:36.010Z",
+    "title": "Xbox One S com dois controles de series S",
+    "priceTexto": "R$ 1.300",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1543012192",
+    "url": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/vendo-xbox-one-series-s-1543012192",
+    "sentAt": "2026-10-11T03:07:37.472Z",
+    "title": "Vendo Xbox One - Séries S",
+    "priceTexto": "R$ 1.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1542992600",
+    "url": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1542992600",
+    "sentAt": "2026-10-11T03:07:38.927Z",
+    "title": "Xbox series s",
+    "priceTexto": "R$ 1.500",
+    "score": 67,
+    "level": "media"
   }
 ]
