@@ -6414,5 +6414,23 @@
     "priceTexto": "R$ 91.000",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1544473703",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1544473703",
+    "sentAt": "2026-10-15T20:18:19.636Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 126.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1544473061",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1544473061",
+    "sentAt": "2026-10-15T20:18:20.912Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 126.900",
+    "score": 75,
+    "level": "alta"
   }
 ]
