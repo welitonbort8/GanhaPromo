@@ -1690,15 +1690,6 @@
     "level": "alta"
   },
   {
-    "id": "1509231823",
-    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1509231823",
-    "sentAt": "2026-08-15T12:18:24.058Z",
-    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
-    "priceTexto": "R$ 89.990",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1524853415",
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1524853415",
     "sentAt": "2026-08-15T12:18:25.342Z",
@@ -6549,5 +6540,56 @@
     "priceTexto": "R$ 138.900",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1545073206",
+    "url": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/x-box-series-s-1545073206",
+    "sentAt": "2026-10-19T11:42:36.014Z",
+    "title": "X box series S",
+    "priceTexto": "R$ 2.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1541023823",
+    "url": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/x-box-series-s-novo-1541023823",
+    "sentAt": "2026-10-19T11:42:37.986Z",
+    "title": "X box séries s novo",
+    "priceTexto": "R$ 2.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1544542691",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1544542691",
+    "sentAt": "2026-10-19T11:43:30.041Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 134.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1529868874",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1529868874",
+    "sentAt": "2026-10-19T11:43:31.489Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 82.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1509231823",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1509231823",
+    "sentAt": "2026-10-19T11:43:32.923Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 86.990",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 89.990",
+        "date": "2026-08-15T12:18:24.058Z"
+      }
+    ]
   }
 ]
