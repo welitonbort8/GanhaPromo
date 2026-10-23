@@ -3694,21 +3694,6 @@
     "level": "alta"
   },
   {
-    "id": "1528834277",
-    "url": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1528834277",
-    "sentAt": "2026-09-17T11:05:47.297Z",
-    "title": "Xbox séries S",
-    "priceTexto": "R$ 2.800",
-    "score": 57,
-    "level": "media",
-    "history": [
-      {
-        "priceTexto": "R$ 2.900",
-        "date": "2026-09-16T20:06:49.364Z"
-      }
-    ]
-  },
-  {
     "id": "1536036096",
     "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1536036096",
     "sentAt": "2026-09-17T15:07:27.876Z",
@@ -6770,6 +6755,61 @@
     "title": "Vivo X200 Pro Global 512GB 16GB RAM 5G ZEISS 200MP completo ACT OLX PAY E CARTÃO ATÉ 18X*.",
     "priceTexto": "R$ 5.100",
     "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1546337633",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/x-box-series-s-2-controles-1546337633",
+    "sentAt": "2026-10-23T05:37:07.013Z",
+    "title": "X box series S - 2 controles",
+    "priceTexto": "R$ 2.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1546046483",
+    "url": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-edicao-especial-gta-vi-1546046483",
+    "sentAt": "2026-10-23T05:37:08.526Z",
+    "title": "Xbox Series S edição especial GTA VI",
+    "priceTexto": "R$ 3.000",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1539202329",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1539202329",
+    "sentAt": "2026-10-23T05:37:10.062Z",
+    "title": "Xbox séries s",
+    "priceTexto": "R$ 2.799",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1528834277",
+    "url": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1528834277",
+    "sentAt": "2026-10-23T05:37:11.668Z",
+    "title": "Xbox séries S",
+    "priceTexto": "R$ 2.550",
+    "score": 67,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 2.900",
+        "date": "2026-09-16T20:06:49.364Z"
+      },
+      {
+        "priceTexto": "R$ 2.800",
+        "date": "2026-09-17T11:05:47.297Z"
+      }
+    ]
+  },
+  {
+    "id": "1538015785",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-512-gb--muito-bem-cuidado-1538015785",
+    "sentAt": "2026-10-23T05:37:13.206Z",
+    "title": "Xbox Series S [512 GB ] - Muito Bem Cuidado",
+    "priceTexto": "R$ 2.500",
+    "score": 70,
     "level": "media"
   }
 ]
