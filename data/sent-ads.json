@@ -4678,15 +4678,6 @@
     "level": "alta"
   },
   {
-    "id": "1538955706",
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1538955706",
-    "sentAt": "2026-09-26T06:07:54.253Z",
-    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
-    "priceTexto": "R$ 88.900",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1539111773",
     "url": "https://sc.olx.com.br/norte-de-santa-catarina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1539111773",
     "sentAt": "2026-09-26T20:06:18.292Z",
@@ -5194,15 +5185,6 @@
     "sentAt": "2026-10-01T15:10:37.616Z",
     "title": "Nintendo switch V1 Desbloqueado Troco por Xbox series S",
     "priceTexto": "R$ 1.600",
-    "score": 75,
-    "level": "alta"
-  },
-  {
-    "id": "1540557833",
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540557833",
-    "sentAt": "2026-10-01T15:11:36.958Z",
-    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
-    "priceTexto": "R$ 112.900",
     "score": 75,
     "level": "alta"
   },
@@ -7066,5 +7048,62 @@
     "priceTexto": "R$ 90.060",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1548279999",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-attra-16v-tb-fsi-s-tronic-2017-1548279999",
+    "sentAt": "2026-10-28T19:14:14.139Z",
+    "title": "Audi A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic 2017",
+    "priceTexto": "R$ 70.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1547608551",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-attra-16v-tb-fsi-s-tronic-2017-1547608551",
+    "sentAt": "2026-10-28T19:14:15.415Z",
+    "title": "Audi A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic 2017",
+    "priceTexto": "R$ 93.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1538955706",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1538955706",
+    "sentAt": "2026-10-28T19:14:16.684Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 87.900",
+    "score": 87,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 88.900",
+        "date": "2026-09-26T06:07:54.253Z"
+      }
+    ]
+  },
+  {
+    "id": "1547893702",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-s-line-limited-1-4-tfsi-tiptro-2022-1547893702",
+    "sentAt": "2026-10-28T19:14:17.958Z",
+    "title": "Audi A3 Sedan S-line Limited 1.4 TFSI Tiptro 2022",
+    "priceTexto": "R$ 130.000",
+    "score": 70,
+    "level": "media"
+  },
+  {
+    "id": "1540557833",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540557833",
+    "sentAt": "2026-10-28T19:14:19.233Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 109.800",
+    "score": 87,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 112.900",
+        "date": "2026-10-01T15:11:36.958Z"
+      }
+    ]
   }
 ]
